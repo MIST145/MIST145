@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center">
-  🇲 🇮 🇸 🇹 • <span style="color:#007bff">Mist Goat</span>
+  🇲 🇮 🇸 🇹 • <span style="color:#007bff">🐐</span>
 </h2>
 
 <p align="center">
@@ -81,7 +81,7 @@
 ## 📦 WHAT MIST GOAT BUILDS
 
 <p align="center">
-  <img src="https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/Pack_logos.gif" width="420" />
+  <img src="https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/logoss.gif" width="420" />
 </p>
 
 - 🔧 Advanced FiveM gameplay architectures  
