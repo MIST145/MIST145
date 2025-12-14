@@ -1,12 +1,19 @@
-<!-- MAIN BANNER -->
+<!-- HERO GIF -->
 <p align="center">
   <img src="https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/mist_intro.gif" width="100%" />
 </p>
 
-<h1 align="center">👋 MIST145</h1>
+<!-- ANIMATED NAME (CUSTOM BANNER) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=007BFF&center=true&vCenter=true&width=600&lines=MIST145;FiveM+Developer;Lua+Scripter;Systems+%26+Automation" />
+</p>
+
+<h3 align="center">
+  🇲 🇮 🇸 🇹 • Cyber FiveM Developer
+</h3>
 
 <p align="center">
-  <b>FiveM Developer • Lua Scripter • Systems & Automation</b>
+  <b>High-quality FiveM scripts • Clean Lua • Immersive systems</b>
 </p>
 
 <p align="center">
@@ -17,21 +24,21 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 WHO AM I
 
 <p align="center">
   <img src="https://r2.fivemanage.com/image/Ezi5R4jbvkWK.gif" width="420" />
 </p>
 
-- 🔧 FiveM Script Developer  
-- 💻 Lua (Client & Server)  
+- 🔧 **FiveM Developer** focused on gameplay systems  
+- 💻 **Lua Client & Server** (clean, modular, optimized)  
 - ⚙️ ox_lib • ox_target • ESX • QBCore  
-- 🧩 Focused on **clean code, performance & immersive gameplay**
-- 🚀 Building production-ready resources and tools
+- 🧠 Strong focus on **performance, UX & realism**
+- 🚀 Building **production-ready** scripts — not prototypes
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
@@ -43,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MIST145&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -55,7 +62,7 @@
 
 ---
 
-## 🧠 Most Used Languages
+## 🧠 MOST USED LANGUAGES
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIST145&layout=compact&theme=tokyonight&hide_border=true" />
@@ -63,22 +70,41 @@
 
 ---
 
-## 📦 What I Build
+## 📦 WHAT I BUILD
 
 <p align="center">
   <img src="https://r2.fivemanage.com/image/3dgpYj50xEIQ.gif" width="420" />
 </p>
 
-- 🔧 Advanced FiveM scripts  
-- ⚙️ Client & Server Lua systems  
-- 🧠 Gameplay mechanics & interactions  
-- 📦 Modular, optimized resources  
+- 🔧 Advanced FiveM gameplay systems  
+- ⚙️ Client & Server Lua scripts  
+- 🧩 Interaction-based mechanics (ox_target / ox_lib)  
+- 📦 Modular, scalable and optimized resources  
 
-👉 Check my repositories for **production-ready projects**.
+👉 Check my repositories for **real-world, server-ready projects**.
 
 ---
 
-## 🌐 Links
+## 💬 DISCORD
+
+- **Display name:** 🇲 🇮 🇸 🇹  
+- **Username:** `mist_goat`  
+- **ID:** `749405945242845294`
+
+> Preferred contact for collaborations, testing and FiveM-related work.
+
+---
+
+## 🗂️ GITHUB ACCOUNTS
+
+- 🔵 **Main:** https://github.com/MIST145  
+- 🟣 **Backup / Old:** https://github.com/Mistextreme  
+
+(Some older projects and backups may exist on the secondary account.)
+
+---
+
+## 🌐 LINKS
 
 <p align="center">
   <a href="https://github.com/MIST145">
@@ -89,5 +115,5 @@
 ---
 
 <p align="center">
-  <i>"Coding is GREAT… they told me."</i>
+  <b>“Code hard. Optimize harder.”</b>
 </p>
