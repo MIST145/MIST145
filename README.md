@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-  🇲 🇮 🇸 🇹 • <span style="color:#007bff">Mist Goat</span>
+  🇲 🇮 🇸 🇹 • <span style="color:#007bff">Mist 🐐</span>
 </h2>
 
 <p align="center">
