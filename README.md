@@ -32,7 +32,7 @@
 ## 🧠 WHO IS MIST GOAT
 
 <p align="center">
-  <img src="https://r2.fivemanage.com/image/Ezi5R4jbvkWK.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/MIST145/GitHub_Uploader/main/animation-logos.gif" width="420" />
 </p>
 
 - 🔧 **FiveM systems developer**, not a script reseller  
@@ -81,7 +81,7 @@
 ## 📦 WHAT MIST GOAT BUILDS
 
 <p align="center">
-  <img src="https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/logoss.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/MIST145/GitHub_Uploader/main/mist_gta.gif" width="420" />
 </p>
 
 - 🔧 Advanced FiveM gameplay architectures  
@@ -93,6 +93,29 @@
 
 ---
 
+## 🗂️ GITHUB ACCOUNTS
+
+<table align="center">
+<tr>
+<td>
+
+### 🔵 Main / Active  
+**Mist Goat**  
+👉 https://github.com/MIST145  
+
+### 🟣 Legacy / Backup  
+Older projects & backups  
+👉 https://github.com/Mistextreme  
+
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/MIST145/GitHub_Uploader/main/intro_codee.gif" width="220" />
+</td>
+</tr>
+</table>
+
+---
+
 ## 💬 DISCORD
 
 - **Display name:** 🇲 🇮 🇸 🇹  
@@ -101,15 +124,6 @@
 - **ID:** `749405945242845294`
 
 > Preferred contact for serious FiveM work and collaborations.
-
----
-
-## 🗂️ GITHUB ACCOUNTS
-
-- 🔵 **Main / Active:** https://github.com/MIST145  
-- 🟣 **Legacy / Backup:** https://github.com/Mistextreme  
-
-(Some older projects and backups live on the secondary account.)
 
 ---
 
