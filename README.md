@@ -1,19 +1,24 @@
-<!-- HERO GIF -->
+<!-- ANIMATED BANNER #1 — IDENTITY -->
 <p align="center">
-  <img src="https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/mist_intro.gif" width="60%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2400&pause=700&color=007BFF&center=true&vCenter=true&width=900&lines=Mist+Goat;mist_goat+%7C+Discord;Mistextreme+%7C+Legacy+GitHub" />
 </p>
 
-<!-- EXCLUSIVE ANIMATED BANNER (TEXT ONLY, GITHUB SAFE) -->
+<!-- HERO GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=2600&pause=700&color=007BFF&center=true&vCenter=true&width=800&lines=Mist+Goat;Mist+the+GOAT;FiveM+Developer;Lua+Systems+Engineer;Gameplay+Architecture" />
+  <img src="https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/mist_intro.gif" width="50%" />
+</p>
+
+<!-- ANIMATED BANNER #2 — WHAT I DO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2600&pause=700&color=007BFF&center=true&vCenter=true&width=900&lines=FiveM+Developer;Lua+Systems+Engineer;Gameplay+Architecture;High-Performance+Resources" />
 </p>
 
 <h2 align="center">
-  🇲 🇮 🇸 🇹 • <span style="color:#007bff">Mist 🐐</span>
+  🇲 🇮 🇸 🇹 • <span style="color:#007bff">Mist Goat</span>
 </h2>
 
 <p align="center">
-  <b>Cyber FiveM Developer • Lua Architect • High-Performance Systems</b>
+  <b>Cyber FiveM Developer • Lua Architect • Production Systems</b>
 </p>
 
 <p align="center">
@@ -30,14 +35,14 @@
   <img src="https://r2.fivemanage.com/image/Ezi5R4jbvkWK.gif" width="420" />
 </p>
 
-- 🔧 **FiveM systems developer**, not a script kid  
+- 🔧 **FiveM systems developer**, not a script reseller  
 - 💻 **Lua Client & Server** — clean, modular, optimized  
 - ⚙️ ox_lib • ox_target • ESX • QBCore  
 - 🧠 Obsessed with **performance, UX and realism**
-- 🚀 Ships **production systems**, not experimental code  
+- 🚀 Builds **production-ready systems** for real servers  
 
-> I don’t release scripts.  
-> I release **systems that survive production servers**.
+> I don’t ship scripts.  
+> I ship **systems that survive scale**.
 
 ---
 
@@ -76,7 +81,7 @@
 ## 📦 WHAT MIST GOAT BUILDS
 
 <p align="center">
-  <img src="https://r2.fivemanage.com/image/3dgpYj50xEIQ.gif" width="420" />
+  <img src="https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/Pack_logos.gif" width="420" />
 </p>
 
 - 🔧 Advanced FiveM gameplay architectures  
@@ -95,14 +100,14 @@
 - **Username:** `mist_goat`  
 - **ID:** `749405945242845294`
 
-> Preferred contact for collaborations, testing and serious FiveM work.
+> Preferred contact for serious FiveM work and collaborations.
 
 ---
 
 ## 🗂️ GITHUB ACCOUNTS
 
 - 🔵 **Main / Active:** https://github.com/MIST145  
-- 🟣 **Backup / Legacy:** https://github.com/Mistextreme  
+- 🟣 **Legacy / Backup:** https://github.com/Mistextreme  
 
 (Some older projects and backups live on the secondary account.)
 
@@ -120,7 +125,7 @@
 
 <p align="center">
   <b>
-    Mist Goat doesn’t chase trends.<br/>
-    Mist Goat builds what others can’t.
+    Mist Goat builds systems.<br/>
+    Others build scripts.
   </b>
 </p>
