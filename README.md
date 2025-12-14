@@ -1,11 +1,11 @@
 <!-- HERO GIF -->
 <p align="center">
-  <img src="https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/mist_intro.gif" width="100%" />
+  <img src="https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/mist_intro.gif" width="50%" />
 </p>
 
 <!-- ANIMATED BANNER (CUSTOM) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2800&pause=700&color=007BFF&center=true&vCenter=true&width=700&lines=Mist+Goat;Mist+🐐;FiveM+Developer;Lua+Systems+%26+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2800&pause=700&color=007BFF&center=true&vCenter=true&width=700&lines=Mist+Goat;Mist+;FiveM+Developer;Lua+Systems+%26+Automation" />
 </p>
 
 <h2 align="center">
